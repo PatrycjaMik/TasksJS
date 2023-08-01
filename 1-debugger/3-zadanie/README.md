@@ -2,7 +2,7 @@
 ==========================
 
 
-## Zadanie 1
+## Zadanie 1 ++=
 --------------------------
 W pliku users.js jest tablica użytkowników. Naszym zadaniem będzie za pomocą pętli podliczenie zarobków wszystkich użytkowników.
 

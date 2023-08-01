@@ -6,7 +6,7 @@ Na stronie znajdują się 2 zegarki. Jeden cyfrowy oraz drugi - wskazówkowy tle
 Może tego na pierwszy rzut oka nie widać, ale niestety strona nie działa prawidłowo, ponieważ działają tylko sekundy.
 
 
-## Zadanie 1
+## Zadanie 1 +++
 --------------------------
 Zacznijmy od naprawienia zegarka cyfrowego.
 Zbadaj cyfry w zegarku cyfrowym (element .second) i dodaj im breakpointa zatrzymującego skrypt w przypadku modyfikacji html danego elementu. Aby to zrobić będąc w zakładce Elements debugera kliknij prawym przyciskiem myszy na dany element i z menu kontekstowego wybierz `Break on -> subtree modification`.
@@ -24,7 +24,7 @@ Po zmianie skrypt wyłącz na chwilę breakpointy a następnie włącz wykonywan
 Jeżeli wszystko poszło dobrze, zegarek powinien już działać prawidłowo.
 
 
-## Zadanie 2
+## Zadanie 2 ++
 --------------------------
 Włącz ponownie breakpointy (znowu ikonka 2). Skrypt ponownie zatrzyma się w okolicach poprzedniego miejsca.
 
@@ -55,7 +55,7 @@ Stwórzmy analogiczny kod dla minut i godzin.
 Podobnie do tych 2 linijek musimy zmienić zmienne `--minutes` i `--hours`. Możesz się o tym przekonać wybierając w zakładce Sources z lewej strony plik style.css i przechodząc do 34 linijki kodu. Pamiętaj by przy wyliczaniu wykorzystać odpowiednie parametry funkcji.
 
 
-## Zadanie 3
+## Zadanie 3 +++
 --------------------------
 Wyłączmy wszystkie breakpointy - nawet te związane ze zmianą html - i przetestujmy działanie strony. Aby to najwygodniej zrobić z prawej strony w sekcji DOM Breakpoints kliknij prawym przyciskiem na tą sekcję i wybierz "Remove all DOM breakpoints".
 

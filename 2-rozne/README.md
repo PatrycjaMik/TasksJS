@@ -2,7 +2,7 @@
 ==========================
 
 
-## Zadanie 1
+## Zadanie 1 +++
 --------------------------
 Napisz funkcję `countWord(txt)`, która wymagać będzie tekstu.
 Funkcja powinna zwrócić liczbę słów z ilu składa się przekazany tekst.
@@ -18,7 +18,7 @@ Tekst "Koty to fajne zwierzaki" składa się z 4 wyrazów"
 ```
 
 
-## Zadanie 2
+## Zadanie 2 +++
 --------------------------
 Za pomocą funkcji `prompt()` pobierz od użytkownika jego imię.
 Napisz funkcję `fixName(name)`, do której przekażesz przekazane imię.
@@ -32,7 +32,7 @@ Imię Ania rozpoczyna się od litery A
 ```
 
 
-## Zadanie 3
+## Zadanie 3 ++
 --------------------------
 Napisz funkcję `fileInfo(file)`, która będzie przyjmować pełną nazwę pliku (wraz z rozszerzeniem).
 Funkcja powinna zwracać obiekt, z właściwościami `name` oraz `extension`. Pod name podstaw nazwę przekazanego pliku, a pod extension jego rozszerzenie.

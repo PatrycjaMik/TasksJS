@@ -2,7 +2,7 @@
 ==========================
 
 
-### Zadanie 1
+### Zadanie 1 +++ 
 --------------------------
 Na naszej stronie znajduje się prosty formularz, który dodaje 2 liczby.
 Niestety nie działa on najlepiej, bo wynik nie jest prawidłowy.
